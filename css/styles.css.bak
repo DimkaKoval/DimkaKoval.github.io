@@ -10750,7 +10750,7 @@ header.masthead {
     padding-bottom: 6rem;
     text-align: center;
     color: #fff;
-    background-image: url("../images/_109347319_gettyimages-611195980.jpg");
+    background-image: url("images/_109347319_gettyimages-611195980.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
